@@ -3,3 +3,5 @@
 (See "Final Exercise" statement [here](https://github.com/MonashMath/SCI1022/blob/master/Git.md#1116-conflicting-changes))
 
 Stephanie Louey's GitHub repository is available [here](https://github.com/stephanielouey/repository4sci1022.git)
+
+Annika Spiers's GitHub repository is available [here](https://github.com/A-Spi/repository4sci1022)
