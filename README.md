@@ -9,3 +9,5 @@ Annika Spiers's GitHub repository is available [here](https://github.com/A-Spi/r
 Sofia Blokhina's GitHub repository is available [here](https://github.com/Mercury767/SCI1022-Git)
 
 Kalon Peters' Github repository is available [here](https://github.com/kpet0008/repository4sci1022)
+
+William Jackson's Github repository is availale [here](https://github.com/WilliamJackson0002/repositoryforsci1022)
